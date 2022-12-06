@@ -15,4 +15,5 @@ func main() {
 	// dev1 forward again 2
 	// change
 	// new feature 1
+	// new feature 2
 }
