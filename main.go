@@ -21,6 +21,12 @@ func main() {
 	// 2 
 	// 3
 	// 4
+
+	// add
+	// append
+
+	// add1
+	// fix
 }
 
 
